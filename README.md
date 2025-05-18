@@ -17,8 +17,8 @@ I’m Jay (aka Cy-JayDev) — a forensic science student passionate about cybers
 | 1   | HTML Basics            | [Day01](./Day01) |
 | 2   | Fundamentals & Media   | [Day02](./Day02) |
 | 3   | Semantic HTML          | [Day03](./Day03) |
-| 4   | Forms & Tables         | [Day03](./Day03) |
-| 5   | Forms & Tables         | [Day03](./Day03) |
+| 4   | Forms & Tables         | [Day04](./Day04) |
+| 5   | Forms & Tables         | [Day05](./Day05) |
 
 ## 🛠 Tech Stack:
 - HTML, CSS, JavaScript
