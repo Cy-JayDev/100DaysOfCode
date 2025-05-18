@@ -1,9 +1,6 @@
 # 100DaysOfCode
 My journey of learning code in public — day by day 🚀
 
-# 💯 100 Days of Code Challenge
-
-Welcome to my #100DaysOfCode journey!  
 I’m Jay (aka Cy-JayDev) — a forensic science student passionate about cybersecurity and web development.
 
 
