@@ -2,5 +2,6 @@
 🛠 Built a Cat Photo App and a Brownie Recipe page using the HTML boilerplate.
 
 <!-- 😺 Cat Photo App -->
+
 <!-- 🧁 Brownie Recipe Page -->
 
